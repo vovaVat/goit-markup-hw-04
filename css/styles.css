@@ -359,8 +359,8 @@ svg{
     margin-right: auto;
 }
 
-.list-header-sec:hover .overlay-contain,
-.list-header-sec:focus .overlay-contain{
+.list-header-sec:hover .overlay-contain .overlay-contain-text,
+.list-header-sec:focus .overlay-contain .overlay-contain-text{
     transform: translateY(0%);
 }
 
