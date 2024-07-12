@@ -359,8 +359,8 @@ svg{
     margin-right: auto;
 }
 
-.list-header-sec:hover .overlay,
-.list-header-sec:focus .overlay{
+.list-header-sec:hover .overlay-contain,
+.list-header-sec:focus .overlay-contain{
     transform: translateY(0%);
 }
 
@@ -448,4 +448,9 @@ svg{
 .li-soc-link:focus,
 .li-soc-link:active{
     background-color: #404bbf;
+}
+
+.overlay-contain{
+    position: relative;
+    overflow: hidden;
 }
