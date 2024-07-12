@@ -483,4 +483,17 @@ svg{
     background-color: #4d5ae5;
     border-radius: 50%;
     display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.li-socmedia-footer{
+    width: 40px;
+    height: 40px;
+}
+
+.soc-container-link:hover,
+.soc-container-link:focus{
+    background-color: #31d0aa;
 }
