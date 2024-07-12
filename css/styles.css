@@ -325,7 +325,7 @@ ol{
 
 .logs-list{
     display: flex;
-    gap: 16px;
+    gap: 24px;
     justify-content: center;
     margin-top: 8px;
 }
@@ -475,4 +475,9 @@ svg{
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
+}
+
+.logs-list.footer{
+    gap: 16px;
+    
 }
