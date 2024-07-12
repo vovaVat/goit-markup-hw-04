@@ -51,6 +51,8 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 188px 0;
+    max-width: 1440px;
+    background-position: center;
 }
 
 .order-button{
@@ -69,6 +71,7 @@ a{
     margin-left: auto;
     margin-right: auto;
     margin-top: 48px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .order-button:hover,
@@ -367,6 +370,8 @@ svg{
     border: 1px solid #8E8F99;
     border-radius: 4px;
     background-color: #F4F4FD;
+    height: 112px;
+    margin-bottom: 8px;
 }
 
 .links.header.selected{
