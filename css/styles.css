@@ -212,11 +212,6 @@ h6{
 
 .address{
 }
-
-.container.footer{
-    margin-right: 120px;
-}
-
 .logo.foot{
     display: inline-block;
     margin-bottom: 16px;
@@ -419,6 +414,7 @@ svg{
 
 .container.social-media{
     display: flex;
+    margin-right: 120px;
 }
 
 .page-head{
