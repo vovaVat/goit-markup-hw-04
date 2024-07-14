@@ -436,7 +436,10 @@ svg{
     justify-content: center;
 }
 
-.li-soc-link:hover,
+.li-soc-link:hover{
+    background-color: #404bbf;
+}
+
 .li-soc-link:focus{
     background-color: #404bbf;
 }
