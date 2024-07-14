@@ -437,8 +437,7 @@ svg{
 }
 
 .li-soc-link:hover,
-.li-soc-link:focus,
-.li-soc-link:active{
+.li-soc-link:focus{
     background-color: #404bbf;
 }
 
