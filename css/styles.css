@@ -480,6 +480,7 @@ svg{
 }
 
 .container.footer{
+    margin: 0;
     margin-right: 120px;
 }
 
